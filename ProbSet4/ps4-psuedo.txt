@@ -1,0 +1,30 @@
+Your algorithms should be plain English explanations for the steps your program will take to solve these problems.
+
+Write out your algorithm for Problem 2 here:
+
+Run apply_shift on message through all fifty-two iterations:	
+	strip text
+	is_word
+	compare to max_valids, save if is
+print max_valids decoded
+
+
+Write out your algorithm for Problem 4 here:
+while start < (len(text)-1)
+	if type(return) = tuple
+		add ([0],[1]) to shifts	
+		counter = 0
+		start = start + tuple[2]
+
+		recursive (start)
+	if returns False
+		counter += 1
+		apply shift + 1
+		recursive
+	
+	
+temp = text[start:].split()
+	if is_word(temp[0]) is false:
+		return False
+	else:
+		returns ((start, counter), len(word))

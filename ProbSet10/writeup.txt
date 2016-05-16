@@ -1,0 +1,21 @@
+2.1 --
+
+ALMadison, ARWashington, CASacramento, CAVentura, CAYolo, COElPaso, COLaPlata, FLBroward, FLHillsborough, FLOrange, FLSeminole, GAColumbia, HIMaui, IDAda, LASt.Tammany, MDHarford, MDPrinceGeorge's, MIOttawa, MSLamar, MSMadison, MTJefferson, NESarpy, NHMerrimack, OKCleveland, ORWashington, SCGreenville, TXBexar, TXTarrant, UTSaltLake, VAChesterfield, VAChesapeake, WABenton, WAPierce, WASnohomish, WAThurston, WAWhatcom
+
+ALShelby, CAElDorado, CASacramento, COElPaso, COGarfield, COOuray, COTeller, FLClay, FLSantaRosa, GACobb, GAColumbia, GACoweta, GAFayette, GAGwinnett, GAOconee, IDAda, ILKane, ILMcHenry, INBoone, INHancock, INJohnson, IADallas, KYBoone, KYOldham, KYScott, LASt.Tammany, MDCalvert, MDCarroll, MDCharles, MDFrederick, MDHarford, MDQueenAnne's, MIGrandTraverse, MILivingston, MIOttawa, MNAnoka, MNCarver, MNDakota, MNWashington, MNWright, MOPlatte, MOSt.Charles, MTJefferson, NESarpy, NVDouglas, NVWashoe, NHRockingham, NJWarren, NMSandoval, NCDare, OHFairfield, OHMedina, ORDeschutes, ORWashington, TNRutherford, TNWilson, TXComal, TXKendall, VTGrandIsle, VAChesterfield, VAFauquier, VAFluvanna, VAHanover, VAKingGeorge, VANewKent, VAPowhatan, VAYork, WAClark, WAIsland, WASnohomish, WAThurston, WISt.Croix
+
+ALShelby, CAElDorado, CANapa, CAVentura, CAYolo, COElPaso, COGarfield, COTeller, FLSeminole, GAColumbia, GAFayette, GAGwinnett, GAOconee, GARockdale, IDAda, ILKane, ILMcHenry, INBoone, INHancock, INJohnson, IADallas, KYOldham, LASt.Tammany, MDCalvert, MDCarroll, MDFrederick, MDHarford, MDPrinceGeorge's, MDQueenAnne's, MIGrandTraverse, MILivingston, MIOttawa, MNAnoka, MNCarver, MNWashington, MOClay, MOPlatte, MOSt.Charles, MTJefferson, NESarpy, NVDouglas, NVWashoe, NHMerrimack, NJSussex, NJWarren, NCDare, OHMedina, ORClackamas, ORWashington, TXKendall, TXTarrant, UTDavis, VAChesterfield, VAFauquier, VAHanover, VAKingGeorge, VAYork, VAChesapeake, WABenton, WAIsland, WASnohomish, WAThurston, WISt.Croix
+
+#Name		HomeValue IncomePoverty	PopDensity	PopChangePrcnt65+Below18%Female	HSGrad	Univ	Unemployed%<18	LifeExpectancy	FarmAcres
+MD Harford	149800	24232	4.9	218590		2.6	10.1	60965	51	86.7	27.3	3661	27.9	76.1	94112
+0  1		2	3	4	5		6	7	8	9	10	11	12	13	14	15
+		Y	Y	Y	Y		Y	
+
+AL Shelby	146700	27176	6.3	143293		4.5	8.5	37620	51	86.8	36.8	1381	26.3	75.4	68421
+CA El Dorado	194400	25560	7.1	156299		4	12.4	40792	50.1	89.1	26.5	3098	26.1	77	102726
+CA Sacramento	144200	21142	14.1	1223499		3.7	11.1	337602	51.1	83.3	24.8	24644	27.6	75.6	308035
+CO El Paso	147100	22005	8	516929		3.2	8.7	142480	49.8	91.3	31.8	8588	27.6	76.8	866953
+WI St.Croix	139500	23937	4	63155		5	9.9	17617	50	91.6	26.3	766	27.9	77.4	312076
+
+2.2 --
+My county is not in an appropriate cluster. I selected five counties that appeared atleast twice and there is a wide disparity along different values. None of the other countries come close in terms of population density, or population change. Sacramento is a strong outlier with its high poverty level. The grouping could be more even along all of the values.
